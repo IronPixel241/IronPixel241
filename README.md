@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ironpixel241&label=Profile%20views&color=0e75b6&style=flat" alt="ironpixel241" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ironpixel241" alt="ironpixel241" /></a> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=IronPixel241&theme=onedark)](https://github.com/IronPixel241/github-profile-trophy)
+
 
 - 🌱 I’m currently learning **React**
 
