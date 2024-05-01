@@ -61,4 +61,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ironpixel241&" alt="ironpixel241" /></p>
 
-
+[![SounakNandi's GitHub | Stats](https://stats.quine.sh/SounakNandi/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SounakNandi)
+[![SounakNandi's GitHub | Languages Over Time](https://stats.quine.sh/SounakNandi/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SounakNandi)
