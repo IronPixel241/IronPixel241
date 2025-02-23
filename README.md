@@ -5,9 +5,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=IronPixel241&theme=onedark)](https://github.com/IronPixel241/github-profile-trophy)
 
-- 🌱 I’m currently learning **React**
-- 💬 Ask me about **MongoDB, Node, Express, and APIs**
-- 📫 How to reach me **sounaknandi24@gmail.com**
+
+
+- 🚀 I’m currently diving deep into React & Next.js
+- 🛠️ Tech Stack: JavaScript, TypeScript, Next.js, React, Tailwind CSS, MongoDB, Node.js, Express, Liveblocks, Fabric.js
+- 💡 Passionate about building full-stack web applications, APIs, and scalable solutions
+- 📬 Reach out to me at sounaknandi24@gmail.com
+- 🌍 Always open to collaborations, hackathons, and exciting projects!
 
 <hr>
 
